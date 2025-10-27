@@ -1,0 +1,14 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "showUnsupportedFiles": false,
+  "strictLineBreaks": false,
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "spellcheckLanguages": ["ja", "en-US"],
+  "useMarkdownLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "specs",
+  "attachmentFolderPath": "design"
+}
